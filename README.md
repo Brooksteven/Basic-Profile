@@ -22,13 +22,9 @@ Contains a form to submit contact information.
 ## Screenshot
 
 The following animation shows the web application's appearance:
-
-![portfolio demo](./Assets/images/Basic-Portfolio-Screenshot-.html)
-
-![portfolio demo](./Assets/images/Basic-Portfolio-Screenshot-Portfolio.html)
-
-![portfolio demo](./Assets/images/Basic-Portfolio-Screenshot-ContactMe.html)
-
+![Alt text](/Assets/images/AboutME%20Screenshot.png "About Me Screenshot")
+![Alt text](/Assets/images/Portfolio-Screenshot.png "Portfolio Screenshot")
+![Alt text](/Assets/images/Contact-Screenshot.png "Contact Me Screenshot")
 
 ### Author
 Brooklynn Stevenson
