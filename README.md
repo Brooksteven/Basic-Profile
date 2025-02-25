@@ -2,19 +2,19 @@
 
 ## Summary of This Project
 
-This web application was created to showcase students skilles and talents to employers looking to fill a part-time or full-rime position. This professional portfolio site was created using HTML/CSS for student to display their project, application, and website designs and was established for further portfolio building.  
+This web application was created to showcase students' skills and talents to employers looking to fill a part-time or full-time position. This professional portfolio site was created using HTML/CSS for the student to display their project, application, and website designs and was established for further portfolio building.  
 
 This application includes an About Me (Index) Page, Portfolio Page, and Contact page.
 
 ## Project Requirements 
 
-Pages include the following: Index, Portfolio, Contact.
+Pages include the following: Index, Portfolio, and Contact.
 
 Index
 Contains About Me information.
 
 Portfolio
-Provides a gallery style directory that can link to projects.
+Provides a gallery-style directory that can link to projects.
 
 Contact
 Contains a form to submit contact information.
